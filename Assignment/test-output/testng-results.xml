@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4095" started-at="2019-11-03T07:32:46Z" finished-at="2019-11-03T07:32:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4095" started-at="2019-11-03T07:32:46Z" finished-at="2019-11-03T07:32:50Z">
+      <class name="com.qa.tests.TestOfBookList">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.TestOfBookList@6d78f375]" name="setUp" is-config="true" duration-ms="6" started-at="2019-11-03T13:02:46Z" finished-at="2019-11-03T13:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getMovieIdAndSpecificStatus()[pri:0, instance:com.qa.tests.TestOfBookList@6d78f375]" name="getMovieIdAndSpecificStatus" duration-ms="2082" started-at="2019-11-03T13:02:46Z" finished-at="2019-11-03T13:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMovieIdAndSpecificStatus -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.TestOfBookList@6d78f375]" name="setUp" is-config="true" duration-ms="0" started-at="2019-11-03T13:02:48Z" finished-at="2019-11-03T13:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getNegativeMovieList()[pri:0, instance:com.qa.tests.TestOfBookList@6d78f375]" name="getNegativeMovieList" duration-ms="663" started-at="2019-11-03T13:02:48Z" finished-at="2019-11-03T13:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNegativeMovieList -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.TestOfBookList@6d78f375]" name="setUp" is-config="true" duration-ms="1" started-at="2019-11-03T13:02:49Z" finished-at="2019-11-03T13:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getThebookCount()[pri:0, instance:com.qa.tests.TestOfBookList@6d78f375]" name="getThebookCount" duration-ms="646" started-at="2019-11-03T13:02:49Z" finished-at="2019-11-03T13:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getThebookCount -->
+        <test-method status="PASS" signature="getApiTestWithTokenBearer()[pri:0, instance:com.qa.tests.TestOfBookList@6d78f375]" name="getApiTestWithTokenBearer" duration-ms="677" started-at="2019-11-03T13:02:49Z" finished-at="2019-11-03T13:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getApiTestWithTokenBearer -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.TestOfBookList@6d78f375]" name="setUp" is-config="true" duration-ms="0" started-at="2019-11-03T13:02:49Z" finished-at="2019-11-03T13:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com.qa.tests.TestOfBookList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
